@@ -1,0 +1,14 @@
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.AssemblyInfoInputs.cache
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.AssemblyInfo.cs
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.csproj.CoreCompileInputs.cache
+C:\Users\Prive\Documents\wpfw\C#_basics\bin\Debug\net8.0\C#_basics.exe
+C:\Users\Prive\Documents\wpfw\C#_basics\bin\Debug\net8.0\C#_basics.deps.json
+C:\Users\Prive\Documents\wpfw\C#_basics\bin\Debug\net8.0\C#_basics.runtimeconfig.json
+C:\Users\Prive\Documents\wpfw\C#_basics\bin\Debug\net8.0\C#_basics.dll
+C:\Users\Prive\Documents\wpfw\C#_basics\bin\Debug\net8.0\C#_basics.pdb
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.dll
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\refint\C#_basics.dll
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.pdb
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\C#_basics.genruntimeconfig.cache
+C:\Users\Prive\Documents\wpfw\C#_basics\obj\Debug\net8.0\ref\C#_basics.dll
