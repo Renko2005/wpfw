@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Prive\\.nuget\\packages\\": {}
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prive\\Documents\\wpfw\\C#_basics\\C#_basics.csproj",
+      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\wpfw\\C#_basics\\C#_basics.csproj",
       "projectName": "C#_basics",
-      "projectPath": "C:\\Users\\Prive\\Documents\\wpfw\\C#_basics\\C#_basics.csproj",
-      "packagesPath": "C:\\Users\\Prive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prive\\Documents\\wpfw\\C#_basics\\obj\\",
+      "projectPath": "C:\\Users\\Gebruiker\\Documents\\wpfw\\C#_basics\\C#_basics.csproj",
+      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gebruiker\\Documents\\wpfw\\C#_basics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Prive\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
